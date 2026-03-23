@@ -147,7 +147,7 @@ $` y = xW^T + b `$
 
 总参数个数为：
 
-$ out\_features × in\_features + out\_features $
+$` out\_features × in\_features + out\_features `$
 
 ### 举例
 - `nn.Linear(1,1)` → 2 个参数（w + b）
