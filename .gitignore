@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# IDE
+.idea/
+
+# Mac
+.DS_Store
+
+# env
+venv/
+.env
+
+# checkpoints（可选）
+checkpoints/
